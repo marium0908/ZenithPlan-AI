@@ -1,0 +1,160 @@
+{
+  "users": [
+    {
+      "id": "user-1784534566978",
+      "name": "Marium",
+      "email": "mariumbintemuhammad@gmail.com",
+      "password": "$2b$10$NIXQoWwVcHF.gKYi46re7.Gm3bTqDpqw3usv.cxtwX1Lm6Tvd8xXm",
+      "likes": [],
+      "createdAt": "2026-07-20T08:02:46.978Z"
+    },
+    {
+      "id": "user-1784534610083",
+      "name": "lima",
+      "email": "lima@gmail.com",
+      "password": "$2b$10$7tm8fM6hYrfSngEwpBUyn.ZWw.rzhW6qGaMI.Yf5hSlGE840NA/2K",
+      "likes": [],
+      "createdAt": "2026-07-20T08:03:30.083Z"
+    }
+  ],
+  "destinations": [
+    {
+      "id": "dest-1",
+      "title": "Costa Rica Cloud Forest Canopy Tour",
+      "shortDescription": "Immerse yourself in biodiversity with zip-lining, sustainable eco-lodges, and active wildlife conservation trails.",
+      "description": "Nestled in the lush Monteverde highlands, this eco-adventure brings you face-to-face with exotic flora and rare fauna like the Resplendent Quetzal. Learn about carbon-neutral canopy research, stay in a fully solar-powered treehouse resort, and participate in direct reforestation tree-planting programs led by certified local naturalists.",
+      "category": "Eco-Tourism",
+      "budget": 1450,
+      "rating": 4.9,
+      "location": "Monteverde, Costa Rica",
+      "images": [
+        "https://images.unsplash.com/photo-1518495973542-4542c06a5843?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1565118531796-763e5082d113?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?auto=format&fit=crop&w=800&q=80"
+      ],
+      "duration": 5,
+      "specifications": {
+        "bestTime": "December to April",
+        "difficulty": "Moderate",
+        "carbonFootprint": "85",
+        "accommodation": "Monteverde Forest Canopy Eco-Lodge"
+      },
+      "reviews": [
+        {
+          "id": "rev-1-1",
+          "user": "Sarah Jenkins",
+          "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=150&q=80",
+          "rating": 5,
+          "text": "The treehouse stay was breathtaking. Planting a native cedar tree was the highlight of my trip! Fully zero-waste practices were strictly followed.",
+          "date": "2026-06-12"
+        },
+        {
+          "id": "rev-1-2",
+          "user": "David Chen",
+          "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&q=80",
+          "rating": 4.8,
+          "text": "Incredible biodiversity. The night walk guide was extremely knowledgeable. Felt great supporting local eco-entrepreneurs.",
+          "date": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "id": "dest-2",
+      "title": "Kyoto Heritage & Zen Cycling",
+      "shortDescription": "A carbon-neutral cultural journey exploring ancient temples, bamboo forests, and organic tea ceremonies by electric bicycle.",
+      "description": "Explore the hidden, quiet alleyways of Kyoto on custom electric bamboo-frame bicycles. Visit local preserved heritage wooden townhouses (machiya), participate in an authentic, slow tea ceremony featuring certified organic Uji Matcha, and enjoy local farm-to-table Buddhist vegetarian meals (shojin ryori) that promote local agriculture.",
+      "category": "Cultural",
+      "budget": 1850,
+      "rating": 4.8,
+      "location": "Kyoto, Japan",
+      "images": [
+        "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?auto=format&fit=crop&w=800&q=80"
+      ],
+      "duration": 4,
+      "specifications": {
+        "bestTime": "October to November (Autumn) or April (Cherry Blossoms)",
+        "difficulty": "Easy",
+        "carbonFootprint": "42",
+        "accommodation": "Kyoto Machiya Heritage Guesthouse"
+      },
+      "reviews": [
+        {
+          "id": "rev-2-1",
+          "user": "Emily Watson",
+          "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=150&q=80",
+          "rating": 5,
+          "text": "Biking through the Arashiyama outskirts early in the morning was serene. Highly recommend the plant-based Buddhist tasting menu!",
+          "date": "2026-05-18"
+        }
+      ]
+    },
+    {
+      "id": "dest-3",
+      "title": "Icelandic Volcanic Hot Springs & Geothermal Trek",
+      "shortDescription": "Hike along active geothermal vents, visit clean hydro-power stations, and soak in natural mineral pools.",
+      "description": "Venture deep into Iceland's volcanic rift valleys. Witness majestic bubbling geysers, towering glaciers, and black-sand fields. Learn how Iceland produces 100% renewable geothermal energy. Rest in premium eco-luxury domes with skylights perfect for watching the dancing Northern Lights.",
+      "category": "Adventure",
+      "budget": 2400,
+      "rating": 4.95,
+      "location": "Reykjanes Peninsula, Iceland",
+      "images": [
+        "https://images.unsplash.com/photo-1520763185298-1b434c919102?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1517411032315-54ef2cb783bb?auto=format&fit=crop&w=800&q=80"
+      ],
+      "duration": 6,
+      "specifications": {
+        "bestTime": "June to August (Midnight Sun) or October to March (Aurora)",
+        "difficulty": "Hard",
+        "carbonFootprint": "110",
+        "accommodation": "Hella Geothermal Eco-Resort"
+      },
+      "reviews": [
+        {
+          "id": "rev-3-1",
+          "user": "Marcus Aurelius",
+          "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&q=80",
+          "rating": 5,
+          "text": "The sheer visual scale of geothermal energy is breathtaking. The glass-dome resort is a passive-house design masterpiece.",
+          "date": "2026-06-25"
+        }
+      ]
+    },
+    {
+      "id": "dest-4",
+      "title": "Bali Reef Restoration & Marine Sanctuary Stay",
+      "shortDescription": "Venture into organic marine farming, learn coral micro-fragmentation, and live in bamboo lodges.",
+      "description": "Participate in a hands-on marine sanctuary restoration inside Pemuteran Bay. Vetted dive masters teach you coral micro-fragmentation and how to build artificial reef nurseries powered by low-voltage bio-rock technology. Sleep in award-winning bamboo structures built exclusively with local community woodcrafts.",
+      "category": "Eco-Tourism",
+      "budget": 1200,
+      "rating": 4.85,
+      "location": "Pemuteran Bay, Bali",
+      "images": [
+        "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1518495973542-4542c06a5843?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?auto=format&fit=crop&w=800&q=80"
+      ],
+      "duration": 5,
+      "specifications": {
+        "bestTime": "May to September",
+        "difficulty": "Easy",
+        "carbonFootprint": "64",
+        "accommodation": "BioRock Premium Bamboo Resort"
+      },
+      "reviews": [
+        {
+          "id": "rev-4-1",
+          "user": "Clara Smith",
+          "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=150&q=80",
+          "rating": 4.8,
+          "text": "Snorkeling along the low-voltage artificial reefs was spectacular. Fully committed to community coral education.",
+          "date": "2026-07-10"
+        }
+      ]
+    }
+  ],
+  "itineraries": [],
+  "contactMessages": []
+}

@@ -1,0 +1,6 @@
+{
+  "name": "ZenithPlan AI",
+  "description": "An AI-powered full-stack sustainable travel planner, carbon-budget auditor, and smart eco-tourism recommendation companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
